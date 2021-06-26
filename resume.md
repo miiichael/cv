@@ -61,5 +61,5 @@ Substantial progress (abandoned due to personal circumstances)
 - tape library: backup tape handling, documentation.
 
 ### Other attributes
-- attention to detail. For example, did you know that the Qualtrics EOI
-  pages says "For assistance with this process please contact [insert]."? 
+- attention to detail.
+- adherent of the KISS principle.
