@@ -30,13 +30,13 @@ Substantial progress (abandoned due to personal circumstances)
   gateway.
 - also: JVM monitoring, log collection and analysis.
 
-### Application administration
+### Application administration and technologies
 
 - web server administration: apache (including mod_rewrite, mod_proxy,
   mod_proxy_balancer, mod_macro, mod_fastcgi), nginx, reverse proxies, SSL
   certificates.
 - system programming: perl, python, regular expressions, sqlite.
-- network protocols: TCP/IP, SMTP, HTTP, SSL, IMAP.
+- network protocols: TCP/IP, SMTP, HTTP, SSL, SMTP, IMAP.
 - integrations: Finance, Callista, HR.
 - monitoring: nagios, mrtg, munin, smokeping.
 - performance testing: creating better real-time monitoring capability,
