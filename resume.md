@@ -2,6 +2,16 @@
 
 # Michael Deegan <<michael@deegan.id.au>>
 
+I have more than two decades of professional Linux experience. I enjoy the bread and butter of linux administrations, especially under Debian. I like writing scripts, performance monitoring, firewall rules, and configuring various applications (such as web, mail, etc), all in a simplicity- and security-focused manner. I have a reputation of being someone to come to with questions, and receive answers from. Also, I know regular expressions.
+
+## Key skills
+
+- linux server administration.
+- server application configuration.
+- system monitoring and performance analysis.
+- scripting, for automation, analysis, etc. Perl, Python, sh/bash.
+- attention to detail, security-minded, succinct and unambiguous communicator.
+
 ## Experience
 
 ### Unix Server Administrator - Murdoch University
