@@ -1,8 +1,6 @@
-<link rel="stylesheet" href=".css">
+% Michael Deegan <<michael@deegan.id.au>>
 
-# Michael Deegan <<michael@deegan.id.au>>
-
-I have more than two decades of professional Linux experience. I enjoy the bread and butter of linux administrations, especially under Debian. I like writing scripts, performance monitoring, firewall rules, and configuring various applications (such as web, mail, etc), all in a simplicity- and security-focused manner. I have a reputation of being someone to come to with questions, and receive answers from. Also, I know regular expressions.
+I have more than two decades of professional Linux experience. I enjoy the bread and butter of linux administration, especially under Debian. I like writing scripts, performance monitoring, firewall rules, and configuring various applications (such as web, mail, etc), all in a simplicity- and security-focused manner. I have a reputation of being someone to come to with questions, and receive answers from. Also, I know regular expressions.
 
 ## Key skills
 
@@ -29,7 +27,7 @@ to ITS and its members.
 
 Substantial progress (abandoned due to personal circumstances)
 
-## Skills and abilities
+## Skills
 
 ### Unix systems administration
 
