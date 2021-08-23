@@ -1,6 +1,44 @@
 % Michael Deegan <<michael@deegan.id.au>>
 
-I have more than two decades of professional Linux experience. I enjoy the bread and butter of linux administration, especially under Debian. I like writing scripts, performance monitoring, firewall rules, and configuring various applications (such as web, mail, etc), all in a simplicity- and security-focused manner. I have a reputation of being someone to come to with questions, and receive answers from. Also, I know regular expressions.
+## About
+
+Unix Server Administrator with more than 20 years experience in supporting
+technical and diverse teams in the Tertiary Education Sector with Murdoch
+University.
+
+Expertise includes performance testing, design and implementation of
+integrations between services, and training staff on the finer points of
+regular expressions, SSL, and the application configuration.
+
+Conceptual, analytical skills and strong customer service skills combine to
+create a supportive network environment where systems are maintained
+effectively to deliver a secure, reliable operating environment.  My
+objective is to continue to bring sensibly-implemented technical expertise
+to the IT sector.
+
+<!---
+I have more than two decades of professional Linux experience.  I enjoy the
+bread and butter of linux administration, especially under Debian.  I like
+writing scripts, performance monitoring, firewall rules, and configuring
+various applications (such as web, mail, etc), all in a simplicity- and
+security-focused manner.  I have a reputation of being someone to come to
+with questions, and receive answers from.  Also, I know regular expressions.
+-->
+
+## Contact
+
+
+
+email
+: michael@deegan.id.au
+
+phone
+: +61 413 322 610
+
+telegram
+: [\@miiichael](https://t.me/miiichael)
+
+
 
 ## Key skills
 
@@ -15,10 +53,24 @@ I have more than two decades of professional Linux experience. I enjoy the bread
 ### Unix Server Administrator - Murdoch University
 #### May 2001 - July 2021
 
-Programming and systems administration for Communications Services and
-Computer Services within IT Services. Primarily known for maintaining
-the OS on the Linux web server fleet, but also provided diverse skills
-to ITS and its members.
+Murdoch University is a Perth-based university with 23,000 students and 1,700
+staff, with campuses in Murdoch, Rockingham, Mandurah, Perth, Dubai, and
+Singapore.
+
+As a Unix Server Administrator I was responsible for building and
+maintaining the OS on large portions of the university's Linux server fleet,
+performance testing, design and implementation of integrations between
+services, and educating staff on the finer points of regular expressions,
+SSL, and problem troubleshooting.
+
+- maintain server operating systems, including monitoring and patching.
+- configure servers from raw metal (or blank VMware VM) all the way up to
+  running services (usually apache).
+- write and maintain integrations between applications.
+- SSL certificate renewals.
+- performance testing of systems involved in class signups (source of peak
+  system load).
+- assist other staff with their sysadmin tasks, problem diagnosis, etc.
 
 ## Education
 
@@ -33,7 +85,7 @@ Substantial progress (abandoned due to personal circumstances)
 
 - primarily linux, but also exposure to Solaris and AIX. Debian, RHEL/CentOS, Ubuntu.
 - advanced Debian administration: dpkg, apt, package repositories.
-- virtual servers: disk and volume management, LVM.
+- virtual servers: VMware, disk and volume management, LVM.
 - networking: firewalls (iptables, iproute2), multi-interface routing.
 - cloud: exposure to azure portal and APIs, walinuxagent, application
   gateway.
@@ -55,9 +107,12 @@ Substantial progress (abandoned due to personal circumstances)
 
 ### Programming
 - languages: Perl, shell script, Python. Exposure to PHP, Java, Javascript.
+  Have also dabbled in Powershell and Javascript.
 - workflow: subversion, git, Debian package development and repository
   maintenance.
-- web: this resume is a Markdown document converted to HTML.
+- web: this resume is a Markdown document converted to HTML (though if
+  you're reading this on Seek, then you're probably looking at a PDF version
+  that doesn't contain the benefits of my hand-written CSS...)
 
 ### Security
 - keen interest in achieving best practices: correct use of firewalls,
@@ -78,3 +133,4 @@ Substantial progress (abandoned due to personal circumstances)
 ### Other attributes
 - attention to detail.
 - adherent of the KISS principle.
+- clean WA C class driver's license.

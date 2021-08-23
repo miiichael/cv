@@ -17,7 +17,7 @@ body {
 
 pre,
 code {
-  font-family: "Fira Mono", Monaco, "Courier New", monospace;
+  font-family: "Fira Mono", monospace;
 }
 
 h1,h2 {
@@ -47,10 +47,11 @@ p {
 }
 
 ul {
-  margin: 0 0 1rem 0rem;
+  padding-left: 1.5rem;
 }
 
 h1 {
+  font-size: 1.5rem;
 }
 
 h1,h2 {
@@ -91,6 +92,20 @@ blockquote {
 pre,
 code {
   background-color: #fafafa;
+}
+
+dl {
+}
+dt {
+  float: left;
+  width: 5rem;
+  text-align: right;
+  margin-right:0.5em;
+}
+dt::after {
+  content: ": ";
+}
+dd {
 }
 
 </style>
