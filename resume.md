@@ -8,11 +8,11 @@ email
 linkedin
 : [https://www.linkedin.com/in/miiichael/](https://www.linkedin.com/in/miiichael/)
 
-phone
-: +61 413 322 610
-
 [telegram](https://telegram.org/)
 : [\@miiichael](https://t.me/miiichael)
+
+phone
+: +61 413 322 610
 
 
 ## About
