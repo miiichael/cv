@@ -32,6 +32,9 @@ with questions, and receive answers from.  Also, I know regular expressions.
 email
 : michael@deegan.id.au
 
+linkedin
+: https://www.linkedin.com/in/miiichael/
+
 phone
 : +61 413 322 610
 
@@ -42,11 +45,15 @@ telegram
 
 ## Key skills
 
-- linux server administration.
-- server application configuration.
+- linux server deployment and administration.
+- server application configuration and administration, including database,
+  backend and frontend services.
 - system monitoring and performance analysis.
 - scripting, for automation, analysis, etc. Perl, Python, sh/bash.
-- attention to detail, security-minded, succinct and unambiguous communicator.
+- analysis and troubleshooting of complex systems.
+- attentive to detail, security-minded, succinct.
+- writing accessible and usable documentation and other communications.
+- diligence and a desire to learn and improve.
 
 ## Experience
 
@@ -71,6 +78,7 @@ SSL, and problem troubleshooting.
 - performance testing of systems involved in class signups (source of peak
   system load).
 - assist other staff with their sysadmin tasks, problem diagnosis, etc.
+- participate in the migration of systems from on-prem VMware to Azure cloud.
 
 ## Education
 
@@ -83,7 +91,8 @@ Substantial progress (abandoned due to personal circumstances)
 
 ### Unix systems administration
 
-- primarily linux, but also exposure to Solaris and AIX. Debian, RHEL/CentOS, Ubuntu.
+- primarily linux, but also exposure to Solaris and AIX. RHEL5 through
+  RHEL9, Debian, RHEL/CentOS, Ubuntu.
 - advanced Debian administration: dpkg, apt, package repositories.
 - virtual servers: VMware, disk and volume management, LVM.
 - networking: firewalls (iptables, iproute2), multi-interface routing.
@@ -108,8 +117,9 @@ Substantial progress (abandoned due to personal circumstances)
 ### Programming
 - languages: Perl, shell script, Python. Exposure to PHP, Java, Javascript.
   Have also dabbled in Powershell and Javascript.
+- data formats: CSV, JSON, YAML.
 - workflow: subversion, git, Debian package development and repository
-  maintenance.
+  maintenance. Regular user of Github/gitlab/GOGS.
 - web: this resume is a Markdown document converted to HTML (though if
   you're reading this on Seek, then you're probably looking at a PDF version
   that doesn't contain the benefits of my hand-written CSS...)
@@ -121,6 +131,7 @@ Substantial progress (abandoned due to personal circumstances)
 
 ### Communication
 - Precise and succinct communicator.
+- Writer of accessible and usable documentation.
 
 ### Server room
 - infrastructure: physical server installation and cabling, fault diagnosis, liasing with vendor engineers.
@@ -132,5 +143,7 @@ Substantial progress (abandoned due to personal circumstances)
 
 ### Other attributes
 - attention to detail.
-- adherent of the KISS principle.
+- adherent of the KISS principle. Simplicity means reliability and
+  maintainability.
 - clean WA C class driver's license.
+- former State Emergency Service volunteer, 2006-2012.
