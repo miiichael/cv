@@ -20,8 +20,11 @@ cover-html: output/cover.html
 # a convenience alias
 resume: resume-html
 
-output/resume.html: resume.md header.html Makefile
-	pandoc --from markdown+auto_identifiers+pandoc_title_block $< -o $@ --section-divs --include-in-header=header.html
+output/resume-footer.html: Makefile
+	echo '<div class="footer">Last updated '$(shell date)'</div>' >$@
+
+output/resume.html: resume.md header.html Makefile output/resume-footer.html
+	pandoc --from markdown+auto_identifiers+pandoc_title_block $< -o $@ --section-divs --include-in-header=header.html --include-after-body=output/resume-footer.html
 
 output/resume.pdf: output/resume.html
 	pandoc $< --pdf-engine=wkhtmltopdf -o $@
