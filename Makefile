@@ -11,3 +11,6 @@ resume.pdf: resume.html
 
 output/cover.html: cover.md style-cover.html Makefile
 	pandoc --from markdown+auto_identifiers+pandoc_title_block cover.md -o output/cover.html --section-divs --include-in-header=style-cover.html
+
+upload:	output/resume.html
+	scp -p output/resume.html www:/var/www/www/

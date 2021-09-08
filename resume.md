@@ -1,5 +1,20 @@
 % Michael Deegan <<michael@deegan.id.au>>
 
+## Contact
+
+email
+: [michael@deegan.id.au](mailto://michael@deegan.id.au)
+
+linkedin
+: [https://www.linkedin.com/in/miiichael/](https://www.linkedin.com/in/miiichael/)
+
+phone
+: +61 413 322 610
+
+[telegram](https://telegram.org/)
+: [\@miiichael](https://t.me/miiichael)
+
+
 ## About
 
 Unix Server Administrator with more than 20 years experience in supporting
@@ -24,23 +39,6 @@ various applications (such as web, mail, etc), all in a simplicity- and
 security-focused manner.  I have a reputation of being someone to come to
 with questions, and receive answers from.  Also, I know regular expressions.
 -->
-
-## Contact
-
-
-
-email
-: michael@deegan.id.au
-
-linkedin
-: https://www.linkedin.com/in/miiichael/
-
-phone
-: +61 413 322 610
-
-telegram
-: [\@miiichael](https://t.me/miiichael)
-
 
 
 ## Key skills
