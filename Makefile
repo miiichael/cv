@@ -20,7 +20,7 @@ cover-html: output/cover.html
 # a convenience alias
 resume: resume-html
 
-output/resume-footer.html: Makefile
+output/resume-footer.html: resume.md Makefile
 	echo '<div class="footer">Last updated '$(shell date)'</div>' >$@
 
 output/resume.html: resume.md header.html Makefile output/resume-footer.html
