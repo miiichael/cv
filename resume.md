@@ -12,7 +12,8 @@ linkedin
 : [\@miiichael](https://t.me/miiichael)
 
 phone
-: +61 413 322 610
+: +61 413 322 610 (leave a message if I cannot distinguish your call from a
+scammer's...)
 
 
 ## About
@@ -22,8 +23,8 @@ technical and diverse teams in the Tertiary Education Sector with Murdoch
 University.
 
 Expertise includes performance testing, design and implementation of
-integrations between services, and training staff on the finer points of
-regular expressions, SSL, and the application configuration.
+integrations between services, and educating staff on the finer points of
+regular expressions, SSL, and application configuration.
 
 Conceptual, analytical skills and strong customer service skills combine to
 create a supportive network environment where systems are maintained
@@ -65,8 +66,7 @@ Singapore.
 As a Unix Server Administrator I was responsible for building and
 maintaining the OS on large portions of the university's Linux server fleet,
 performance testing, design and implementation of integrations between
-services, and educating staff on the finer points of regular expressions,
-SSL, and problem troubleshooting.
+services, and problem troubleshooting.
 
 - maintain server operating systems, including monitoring and patching.
 - configure servers from raw metal (or blank VMware VM) all the way up to
@@ -119,8 +119,9 @@ Substantial progress (abandoned due to personal circumstances)
 - workflow: subversion, git, Debian package development and repository
   maintenance. Regular user of Github/gitlab/GOGS.
 - web: this resume is a Markdown document converted to HTML (though if
-  you're reading this on Seek, then you're probably looking at a PDF version
-  that doesn't contain the benefits of my hand-written CSS...)
+  you're reading this on Seek, then you're probably looking at a (probably
+  out of date) PDF version that doesn't contain the benefits of my
+  hand-written CSS...)
 
 ### Security
 - keen interest in achieving best practices: correct use of firewalls,
@@ -145,3 +146,12 @@ Substantial progress (abandoned due to personal circumstances)
   maintainability.
 - clean WA C class driver's license.
 - former State Emergency Service volunteer, 2006-2012.
+
+### Personal
+Congratulations on reading this far!  I am grateful!  Assuming you didn't
+cheat by just skipping straight to the end, that is...
+
+Anyway, in my spare time I enjoy
+photography (taking photos, and, eventually, postprocessing them
+afterwards), Minecraft (both as a player and server
+[admin](https://old.reddit.com/r/admincraft/)).
