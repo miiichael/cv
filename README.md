@@ -4,4 +4,4 @@ My resume. Given the number of offers to review my CV, it seemed sensible to put
 ## TODO
 - more detail to Experience section.
 - moar feedback.
-- actually use CV to get another job 😅
+- ~~actually use CV to get another job 😅~~

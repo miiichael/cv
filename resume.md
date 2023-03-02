@@ -127,10 +127,10 @@ Substantial progress (abandoned due to personal circumstances)
 - data formats: CSV, JSON, YAML.
 - workflow: subversion, git, Debian package development and repository
   maintenance. Regular user of Github/gitlab/GOGS.
-- web: this resume is a Markdown document converted to HTML (though if
-  you're reading this on Seek, then you're probably looking at a (probably
-  out of date) PDF version that doesn't contain the benefits of my
-  hand-written CSS...)
+- web: this resume is a Markdown [document](https://github.com/miiichael/cv)
+  converted to HTML (though if you're reading this on Seek, then you're
+  probably looking at a (probably out of date) PDF version that doesn't
+  contain the benefits of my hand-written CSS...)
 
 ### Security
 - keen interest in achieving best practices: correct use of firewalls,
