@@ -15,12 +15,12 @@ phone
 : +61 413 322 610 (leave a message if I cannot distinguish your call from a
 scammer's...)
 
-
 ## About
 
-Unix Server Administrator with more than 20 years experience in supporting
-technical and diverse teams in the Tertiary Education Sector with Murdoch
-University.
+As a Unix Server Administrator at Murdoch University I accumulated two
+decades of experience in supporting diverse technical teams in the Tertiary
+Education Sector. More recently, I have experience in maintenance
+of cloud infrastructure in AWS, within the resources sector.
 
 Expertise includes performance testing, design and implementation of
 integrations between services, and educating staff on the finer points of
@@ -32,29 +32,31 @@ effectively to deliver a secure, reliable operating environment.  My
 objective is to continue to bring sensibly-implemented technical expertise
 to the IT sector.
 
-<!---
-I have more than two decades of professional Linux experience.  I enjoy the
-bread and butter of linux administration, especially under Debian.  I like
-writing scripts, performance monitoring, firewall rules, and configuring
-various applications (such as web, mail, etc), all in a simplicity- and
-security-focused manner.  I have a reputation of being someone to come to
-with questions, and receive answers from.  Also, I know regular expressions.
--->
-
-
 ## Key skills
 
 - linux server deployment and administration.
 - server application configuration and administration, including database,
   backend and frontend services.
+- experience with cloud tools and services, including Terraform, GitLab, and
+  AWS.
 - system monitoring and performance analysis.
-- scripting, for automation, analysis, etc. Perl, Python, sh/bash.
+- scripting, for automation, analysis, etc. Python, Perl, shell scripts.
 - analysis and troubleshooting of complex systems.
 - attentive to detail, security-minded, succinct.
 - writing accessible and usable documentation and other communications.
 - diligence and a desire to learn and improve.
 
 ## Experience
+
+### Cloud Engineer - Modis
+#### Nov 2021 - present
+
+Modis is a business that provides IT and Engineering services to a range of
+government and non-government organisations.
+
+As a cloud engineer I worked with existing applications to improve their
+reliability, security and performance. I also contributed to projects
+that created new infrastructure.
 
 ### Unix Server Administrator - Murdoch University
 #### May 2001 - July 2021
@@ -87,6 +89,15 @@ Substantial progress (abandoned due to personal circumstances)
 
 ## Skills
 
+### Cloud computing
+
+- IaC: Terraform.
+- source code management: GitLab, Bitbucket, CI/CD pipelines.
+- AWS: good working knowledge of S3, SQS, SNS, IAM, Lambdas and step
+  functions.
+- azure: exposure to the azure portal and APIs, walinuxagent, application
+  gateway.
+
 ### Unix systems administration
 
 - primarily linux, but also exposure to Solaris and AIX. RHEL5 through
@@ -94,8 +105,6 @@ Substantial progress (abandoned due to personal circumstances)
 - advanced Debian administration: dpkg, apt, package repositories.
 - virtual servers: VMware, disk and volume management, LVM.
 - networking: firewalls (iptables, iproute2), multi-interface routing.
-- cloud: exposure to azure portal and APIs, walinuxagent, application
-  gateway.
 - also: JVM monitoring, log collection and analysis.
 - virtualisation: vmWare, libvirt.
 - I know [regular expressions](https://xkcd.com/208/).
@@ -151,7 +160,6 @@ Substantial progress (abandoned due to personal circumstances)
 Congratulations on reading this far!  I am grateful!  Assuming you didn't
 cheat by just skipping straight to the end, that is...
 
-Anyway, in my spare time I enjoy
-photography (taking photos, and, eventually, postprocessing them
-afterwards), Minecraft (both as a player and server
-[admin](https://old.reddit.com/r/admincraft/)).
+Anyway, in my spare time I enjoy [photography](https://photos.deegan.id.au)
+(taking photos, and, eventually, postprocessing them afterwards), Minecraft
+(both as a player and server [admin](https://old.reddit.com/r/admincraft/)).

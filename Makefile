@@ -7,8 +7,8 @@ all:	resume-html resume-pdf cover-html
 clean:
 	rm output/*
 
-upload:	output/resume.html
-	scp -p output/resume.html www:/var/www/www/
+upload: resume.md resume-html resume-pdf
+	scp -p resume.md output/resume.html output/resume.pdf www:/var/www/www/
 
 # I suppose I could have used variables instead of these alias rules...
 resume-html: output/resume.html
@@ -27,10 +27,11 @@ output/resume.html: resume.md header.html Makefile output/resume-footer.html
 	pandoc --from markdown+auto_identifiers+pandoc_title_block $< -o $@ --section-divs --include-in-header=header.html --include-after-body=output/resume-footer.html
 
 output/resume.pdf: output/resume.html
-	pandoc $< --pdf-engine=wkhtmltopdf -o $@
+#	pandoc $< --pdf-engine=wkhtmltopdf -o $@
+	pandoc $< --pdf-engine=weasyprint -o $@
 
-#resume.pdf: resume.md
-#	pandoc resume.md --pdf-engine=weasyprint -o output/resume.pdf
+output/resume.docx: output/resume.html
+	pandoc $< -o $@
 
 output/cover.html: cover.md style-cover.html Makefile
 	pandoc --from markdown+auto_identifiers+pandoc_title_block $< -o $@ --section-divs --include-in-header=style-cover.html
